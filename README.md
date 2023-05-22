@@ -1,3 +1,13 @@
+# Netflix-Clone (Frontend Only)
+
+A simple frontend React app which fetches information about movies and TV shows from TMDB and displays them in the format of the Netflix website. Clicking on the posters of the movies and shows displays their trailers within the website.
+
+Link: https://netflix-clone-biski.web.app/
+
+### Note
+
+The `movie-trailer` package does not display trailers of TV shows and, hence, some trailers might not work.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
