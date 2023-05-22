@@ -1,6 +1,6 @@
 # Netflix-Clone (Frontend Only)
 
-A simple frontend React app which fetches information about movies and TV shows from TMDB and displays them in the format of the Netflix website. Clicking on the posters of the movies displays their trailers within the website.
+A simple frontend React app which fetches information about movies and TV shows from TMDB and displays them in the format of the Netflix website. Clicking on the posters of the movies displays their trailer within the website.
 
 Link: https://netflix-clone-biski.web.app/
 
